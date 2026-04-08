@@ -3,6 +3,8 @@
 An interactive Streamlit app that helps users quickly generate multiplication tables with ease.
 Designed to make learning multiplication simple, fast, and engaging.
 
+![MultiplicationTableGeneratorDemo](https://github.com/KrishBharadwaj5678/MultiplicationTableGenerator/raw/main/MultiplicationTableGeneratorDemo.png)
+
 ## ✨ Features
 
 | Feature            | Description                                               |
